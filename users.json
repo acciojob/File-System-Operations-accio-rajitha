@@ -1,14 +1,6 @@
 [
-  {
-    "name": "Bob",
-    "score": 95
-  },
-  {
-    "name": "Alice",
-    "score": 85
-  },
-  {
-    "name": "Charlie",
-    "score": 78
-  }
-]
+    {"name": "Alice", "score": 85},
+    {"name": "Bob", "score": 92},
+    {"name": "Charlie", "score": 88}
+  ]
+  
